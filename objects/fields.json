@@ -1,0 +1,43 @@
+[
+  {
+    "qName": "LCTO_CONTABIL.DT_LANCAMENTO_MESANO",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "TFT_ORCADO_PREVISIBILIDADE_736"
+    ]
+  },
+  {
+    "qName": "ORCADO.CD_GRUPO_CONVENIO",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "TFT_ORCADO_PREVISIBILIDADE_736"
+    ]
+  },
+  {
+    "qName": "ORCADO.DAT_AUDIT",
+    "qTags": [
+      "$numeric",
+      "$timestamp"
+    ],
+    "qSrcTables": [
+      "TFT_ORCADO_PREVISIBILIDADE_736"
+    ]
+  },
+  {
+    "qName": "ORCADO.VALOR_ORCADO",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "TFT_ORCADO_PREVISIBILIDADE_736"
+    ]
+  }
+]
